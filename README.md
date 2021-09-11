@@ -1,2 +1,2 @@
-# nurgeld.github.io
+# nurgeldy
 personal blog about learning to code
